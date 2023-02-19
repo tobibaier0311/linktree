@@ -1,0 +1,19 @@
+.body {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+background: black;;
+    height: 100vh;
+}
+
+.top__stack {
+    margin-bottom: 4vh;
+}
+
+.bottom__stack {
+    margin-top: 4vh;
+}
+
+.logo {
+    align-self: flex-start;
+}
